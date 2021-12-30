@@ -52,7 +52,7 @@ function App() {
                 </Typography>
               </CardContent>
               <CardActions>
-                <Button type="button" varient="contained" class="btn btn-primary">
+                <Button type="button" variant="contained" class="btn btn-primary">
                   View Profile
                 </Button>
               </CardActions>
